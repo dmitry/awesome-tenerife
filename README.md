@@ -27,11 +27,18 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 * http://www.webtenerife.co.uk/tenerifecb/ - Tenerife Convention Bureau English/Spanish
 * http://www.pctt.es/ - Parque Científico y Tecnológico de Tenerife English/Spanish
 
+## Personal blogs/sites
+
+* http://dmitry.eu/ - Dmitry Polushkin, mainly Ruby developer
+* http://www.carlosble.com/ - Carlos Ble, mainly Javascript developer, blog
+* http://albertoperdomo.net/ - Alberto Perdomo, mainly Rubys developer, blog
+
 ## Companies & Associations
 
 * http://www.tuguu.com/ - Web-development company based on South of Tenerife, Adeje
 * http://innova7.org/ - Innova 7
 * http://metriz.com/
+* http://www.aentos.com/
 
 ## Coworking
 
