@@ -48,5 +48,4 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 
 
 Be sure you have seen http://www.meetup.com/TenerifeTech/pages/Bringing_High_Tech_Conferences_to_Tenerife_Oct%2713
-
 It may be unsynchronized with current document.
