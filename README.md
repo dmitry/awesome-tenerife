@@ -14,7 +14,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 ## Communities
 
 * http://www.orohack.com/ - Orotava Hackerspace, Spanish
-* http://tenerifemakerspace.wordpress.com/ - Tenerife Markers, Spanish
+* http://tenerifemakerspace.wordpress.com/ - Tenerife Makers, Spanish
 * https://www.facebook.com/FabLabTenerife - Tenerife FabLab, Spanish
 
 ## Groups
