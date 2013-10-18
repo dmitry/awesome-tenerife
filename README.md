@@ -32,6 +32,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 * http://dmitry.eu/ - Dmitry Polushkin, mainly Ruby developer
 * http://www.carlosble.com/ - Carlos Ble, mainly Javascript developer, blog
 * http://albertoperdomo.net/ - Alberto Perdomo, mainly Rubys developer, blog
+* http://wagerlabs.com/ - Joel Reymont
 
 ## Companies & Associations
 
