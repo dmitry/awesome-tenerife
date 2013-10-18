@@ -9,7 +9,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 ## Meetups, events and conferences
 
 * http://www.meetup.com/TenerifeTech - Tech & Biz monthly meetup, English
-* http://tlp-tenerife.com/ - LanParty on Tenerife yearly event, Spanish
+* http://tlp-tenerife.com/ - Tenerife Lan Party yearly event, Spanish
 
 ## Communities
 
