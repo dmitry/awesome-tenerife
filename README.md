@@ -31,6 +31,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 
 * http://www.tuguu.com/ - Web-development company based on South of Tenerife, Adeje
 * http://innova7.org/ - Innova 7
+* http://metriz.com/
 
 ## Coworking
 
