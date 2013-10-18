@@ -1,5 +1,5 @@
-Tenerife
-========
+Tenerife tech links
+===================
 
 Tenerife tech meetups, people and other stuff around an island that is somewhat related to the IT.
 
