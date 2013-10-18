@@ -6,11 +6,16 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 **Please propose** your links using the [issues](https://github.com/dmitry/tenerife/issues), [pull request](https://github.com/dmitry/tenerife/pulls) or if you don't have github account, you always can add it to the publically accessable for edit [google drive document](https://docs.google.com/document/d/1KDHkdGE5fQcPY0oZbvmtVaSQg-a0GbPOwrj7BULeXz8/edit?usp=sharing).
 
 
-## Meetups and conferences
+## Meetups, events and conferences
 
 * http://www.meetup.com/TenerifeTech - Tech & Biz monthly meetup, English
-* https://www.facebook.com/FabLabTenerife - Tenerife FabLab, Spanish
+* http://tlp-tenerife.com/ - LanParty on Tenerife yearly event, Spanish
+
+## Communities
+
+* http://www.orohack.com/ - Orotava Hackerspace, Spanish
 * http://tenerifemakerspace.wordpress.com/ - Tenerife Markers, Spanish
+* https://www.facebook.com/FabLabTenerife - Tenerife FabLab, Spanish
 
 ## Groups
 
