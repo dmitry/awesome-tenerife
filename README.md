@@ -40,6 +40,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 * http://innova7.org/ - Innova 7
 * http://metriz.com/
 * http://www.aentos.com/
+* http://www.internetisimo.com/
 
 ## Coworking
 
