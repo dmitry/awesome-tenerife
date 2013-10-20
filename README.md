@@ -10,6 +10,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 
 * http://www.meetup.com/TenerifeTech - Tech & Biz monthly meetup, English
 * http://tlp-tenerife.com/ - Tenerife Lan Party yearly event, Spanish
+* http://tlp-innova.com/ - Innovation Event held around the TLP
 
 ## Communities
 
@@ -20,12 +21,15 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 ## Groups
 
 * https://groups.google.com/forum/#!forum/canarnova
+* http://www.gdgtenerife.com - Google Developer Group Tenerife
+* http://www.tenerifegoretro.com/ - Retro Gaming Group
 
-## Additional information
+## Local institutions / support organisations
 
 * http://www.ull.es/ - University of La Laguna, Spanish
 * http://www.webtenerife.co.uk/tenerifecb/ - Tenerife Convention Bureau English/Spanish
 * http://www.pctt.es/ - Parque Científico y Tecnológico de Tenerife English/Spanish
+* http://www.tfinnova.es/
 
 ## Personal blogs/sites
 
@@ -33,6 +37,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 * http://www.carlosble.com/ - Carlos Ble, mainly Javascript developer, blog
 * http://albertoperdomo.net/ - Alberto Perdomo, mainly Rubys developer, blog
 * http://wagerlabs.com/ - Joel Reymont
+* http://www.atechieintenerife.com/ - Steve Purves
 
 ## Companies & Associations
 
