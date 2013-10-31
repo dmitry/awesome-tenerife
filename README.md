@@ -62,6 +62,7 @@ Tenerife tech meetups, people and other stuff around an island that is somewhat 
 
 
 
+Lots of information can be found on [this google drive spreadsheet document](https://docs.google.com/spreadsheet/ccc?key=0Ao0fTZXChsthdEJqbkZYcG5zTWt2QWtQd0s5Wmp6OVE&usp=drive_web)
 Be sure you have seen [meetup page](http://www.meetup.com/TenerifeTech/pages/Bringing_High_Tech_Conferences_to_Tenerife_Oct%2713).
 It may be unsynchronized with current document.
 
